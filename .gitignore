@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the build
+bin/
+dist/
+
+# Vendor directory
+vendor/
+
+# Configuration files
+*.env
+*.env.local
+.env.production
+config.yml
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
